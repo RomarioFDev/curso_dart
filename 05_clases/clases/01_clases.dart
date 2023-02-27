@@ -1,4 +1,4 @@
-import 'clases/persona.dart';
+import '../persona.dart';
 
 main() {
   final persona = new Persona('Romario', edad: 22);
